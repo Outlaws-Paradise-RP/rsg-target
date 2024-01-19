@@ -13,7 +13,7 @@ Config.MaxDistance = 3.0
 Config.Debug = false
 
 -- Enable outlines around the entity you're looking at
-Config.EnableOutline = false
+Config.EnableOutline = true
 
 -- Enable default options (Toggling vehicle doors)
 Config.EnableDefaultOptions = false
